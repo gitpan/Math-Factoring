@@ -1,6 +1,6 @@
 package Math::Factoring;
 {
-  $Math::Factoring::VERSION = '0.01';
+  $Math::Factoring::VERSION = '0.02';
 }
 
 use warnings;
@@ -162,7 +162,7 @@ Math::Factoring - Math::Factoring - Advanced Factoring Algorithms
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
